@@ -32,3 +32,6 @@
 7. 4stepsとかなにをさしてるのかがわからない
 8. スマホ用のwebアプリにする
 9. 指定されいてる避難所を高い優先順位で出力
+
+Endpoints
+https://4W7pPTuxYDLv7HApt2QYY4rqMPoWVt2jnJZP2a2d7MMR.node.k8s.prd.nos.ci
